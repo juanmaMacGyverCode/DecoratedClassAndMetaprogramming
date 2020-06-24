@@ -1,0 +1,74 @@
+
+Z	java:S106l"9Replace this use of System.out or System.err by a logger.(ãªÚ¤ýÿÿÿÿ8€Åÿï­.
+Z	java:S106)"9Replace this use of System.out or System.err by a logger.(­Þ‘¡ûÿÿÿÿ8€Åÿï­.
+j	java:S100("NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(èùçŒ8€Åÿï­.
+[	java:S106…"9Replace this use of System.out or System.err by a logger.(¢­‘ÿÿÿÿÿÿ8ü®ƒ™®.
+R
+java:S3740´"/Provide the parametrized type for this generic.(¬ž¸Æùÿÿÿÿ8ûÎÓ—®.
+^	java:S125°"<This block of commented-out lines of code should be removed.(×É×½úÿÿÿÿ8ÀíÈ™®.
+p	java:S100´"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¬ž¸Æùÿÿÿÿ8ëéÇ—®.
+V	java:S106¥"9Replace this use of System.out or System.err by a logger.(áñÁ·8ƒÔ™®.
+H
+java:S1172g"+Remove this unused method parameter "arg1".(­Æ¢’8€Åÿï­.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ŒÎ¬Àÿÿÿÿÿ8÷ö±ð­.
+Y	java:S125”"<This block of commented-out lines of code should be removed.(úäáÿ8›•Ð›®.
+?
+java:S2326´"T is not used in the method.(¬ž¸Æùÿÿÿÿ8Ùµü—®.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ßç±µþÿÿÿÿ8€Åÿï­.
+C
+java:S1172#"&Remove these unused method parameters.(”Šâ¬8€Åÿï­.
+R
+java:S1874†"4Remove this use of "isAccessible"; it is deprecated.(»ÌçÂ8ñü†™®.
+b	java:S112{"FDefine and throw a dedicated exception instead of using a generic one.(×¸Ý½8ò¾õ›®.
+b	java:S112#"FDefine and throw a dedicated exception instead of using a generic one.(”Šâ¬8€Åÿï­.
+j	java:S100g"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(­Æ¢’8€Åÿï­.
+X	java:S125ƒ"<This block of commented-out lines of code should be removed.(Ã¶y8çµâ˜®.
+V	java:S106Œ"9Replace this use of System.out or System.err by a logger.(Õ¯øÍ8»¿€™®.
+]	java:S125|"<This block of commented-out lines of code should be removed.(Á²þÀúÿÿÿÿ8Êæð­.
+[	java:S106“"9Replace this use of System.out or System.err by a logger.(ùª·ûÿÿÿÿ8ÃÝÛ›®.
+W
+java:S1191"5Use classes from the Java API instead of Sun classes.(ùùÒÔùÿÿÿÿ8€Åÿï­.
+P
+java:S1172("3Remove this unused method parameter "someArgument".(èùçŒ8€Åÿï­.
+o
+java:S3776{"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(×¸Ý½8ò¾õ›®.
+Y	java:S125™"<This block of commented-out lines of code should be removed.(õÉ‚ò8ë¦ü›®.
+a	java:S112D"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8€Åÿï­.
+Y	java:S125›"<This block of commented-out lines of code should be removed.(ý‘žè8ë¦ü›®.
+[	java:S106˜"9Replace this use of System.out or System.err by a logger.(Ÿž²ÿúÿÿÿÿ8ë¦ü›®.
+Z	java:S106@"9Replace this use of System.out or System.err by a logger.(æ¿˜ýÿÿÿÿ8€Åÿï­.
+V	java:S106Š"9Replace this use of System.out or System.err by a logger.(áñÁ·8Å£™®.
+Z	java:S106S"9Replace this use of System.out or System.err by a logger.(³¯Ãäÿÿÿÿÿ8€Åÿï­.
+‰
+java:S1130#"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(”Šâ¬8€Åÿï­.
+Z	java:S106U"9Replace this use of System.out or System.err by a logger.(×ú’ýúÿÿÿÿ8€Åÿï­.
+U	java:S106:"9Replace this use of System.out or System.err by a logger.(¨¹®œ8€Åÿï­.
+[	java:S106ž"9Replace this use of System.out or System.err by a logger.(€Š×€úÿÿÿÿ8ë¦ü›®.
+T
+java:S1128"7Remove this unused import 'org.junit.jupiter.api.Test'.(Öºˆß8€Åÿï­.
+[	java:S106Ž"9Replace this use of System.out or System.err by a logger.(¯èŽ†øÿÿÿÿ8¾Œ×™®.
+U	java:S106h"9Replace this use of System.out or System.err by a logger.(„Óþ‹8€Åÿï­.
+w
+java:S1128"URemove this unused import 'com.sun.scenario.effect.impl.sw.sse.SSEBlend_SRC_OUTPeer'.(ùùÒÔùÿÿÿÿ8€Åÿï­.
+[	java:S106„"9Replace this use of System.out or System.err by a logger.(Å¾Ç¥üÿÿÿÿ8îÊ‚™®.
+Z	java:S106]"9Replace this use of System.out or System.err by a logger.(×ú’ýúÿÿÿÿ8€Åÿï­.
+o	java:S100k"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ªß¡šúÿÿÿÿ8€Åÿï­.
+H
+java:S1172k"&Remove these unused method parameters.(ªß¡šúÿÿÿÿ8€Åÿï­.
+a	java:S112_"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8€Åÿï­.
+V	java:S106ˆ"9Replace this use of System.out or System.err by a logger.(¢ „ñ8üÒ–œ®.
+j	java:S100#"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(”Šâ¬8€Åÿï­.
+Z	java:S106["9Replace this use of System.out or System.err by a logger.(³¯Ãäÿÿÿÿÿ8€Åÿï­.
+{	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(È‹ïÚùÿÿÿÿ8€Åÿï­.
+X
+java:S1118³":Add a private constructor to hide the implicit public one.(öý²Ê8ëéÇ—®.
+Z	java:S106B"9Replace this use of System.out or System.err by a logger.(¤›ê³úÿÿÿÿ8€Åÿï­.
+T	java:S106$"9Replace this use of System.out or System.err by a logger.(ï¿×D8€Åÿï­.
+V	java:S106†"9Replace this use of System.out or System.err by a logger.(»ÌçÂ8¬Ä†™®.
+[	java:S106’"9Replace this use of System.out or System.err by a logger.(êƒßñùÿÿÿÿ8›•Ð›®.
+b	java:S112Ÿ"FDefine and throw a dedicated exception instead of using a generic one.(‰Æáe8ë¦ü›®.
+T	java:S1068"9Replace this use of System.out or System.err by a logger.(Ð†ÜW8€Åÿï­.
+v	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Èž‡Ä8€Åÿï­.
+[	java:S106"9Replace this use of System.out or System.err by a logger.(›êÃ˜øÿÿÿÿ8†Ÿûð­.
+j
+java:S1128"HRemove this unused import 'jdk.nashorn.internal.runtime.logging.Logger'.(ª‘ÓŸøÿÿÿÿ8€Åÿï­.
